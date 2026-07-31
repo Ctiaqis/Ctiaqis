@@ -1,101 +1,117 @@
-<!-- HEADER SECTION -->
+<!-- HEADER -->
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td align="center" width="80%">
-        <h1>Bonjour! I'm Damia Balqis Setyodhiyauddin</h1>
-        <h2>Data Science & AI Enthusiast</h2>
-      </td>
-      <td align="center" width="20%">
-        <img src="./assets/pink-cat.png" alt="Pink Cat Mascot" width="90">
-      </td>
-    </tr>
-  </table>
+  <img
+    src="./assets/profile-header.png"
+    width="100%"
+    alt="Dania Balqis Setyodhiyauddin GitHub profile header"
+  />
 </div>
 
-<!-- ABOUT ME SECTION -->
-## 👩‍💻 About Me
+<br>
 
-Hi! I am a passionate learner and enthusiast in the field of data and intelligent applications. I am continuously exploring how data can be transformed into meaningful insights and how machine learning can solve real-world problems. 
+<!-- ABOUT ME -->
+## About Me
 
-My current learning focus includes:
-- **Data Analysis**
-- **Machine Learning & Deep Learning**
-- **AI Applications**
-- **Web Development**
+Hi! I am a Data Science and Artificial Intelligence enthusiast who is passionate about turning data into meaningful insights. I enjoy building intelligent applications and exploring the intersection of data, technology, and creativity.
 
-I am always eager to learn new technologies, experiment with various projects, and improve my skills day by day.
+I am currently learning Data Analysis, Machine Learning, Deep Learning, and AI Applications — with a strong interest in using these to build projects that are both useful and impactful.
 
-<!-- TECH STACK SECTION -->
-## 🛠️ Tech Stack
+---
 
-### Programming Languages & Web
+<!-- TECH STACK -->
+## Tech Stack
+
+**Languages & Web**
+
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,php,js,html,css,ts" alt="Programming Languages and Web Tech">
+    <img src="https://skillicons.dev/icons?i=python,java,php,js,html,css" alt="Python, Java, PHP, JavaScript, HTML, CSS">
   </a>
 </p>
 
-### Data Science & AI
+**Data Science & AI**
+
 <p>
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow">
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=Jupyter&logoColor=white" alt="Jupyter Notebook">
-  <img src="https://img.shields.io/badge/colab-%23F9AB00.svg?style=flat&logo=googlecolab&logoColor=white" alt="Google Colab">
-  <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=flat&logo=Streamlit&logoColor=white" alt="Streamlit">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" alt="Google Colab">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit">
 </p>
 
-### Tools & Databases
+**Tools & Database**
+
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" alt="Tools and Databases">
+    <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" alt="MySQL, Git, GitHub, VS Code">
   </a>
 </p>
 
-<!-- GITHUB STATISTICS SECTION -->
-## 📊 GitHub Statistics
+---
+
+<!-- GITHUB STATISTICS -->
+## GitHub Statistics
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ctiaqis&show_icons=true&theme=dark&hide_border=true&bg_color=00000000">
-    <img alt="Ctiaqis's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ctiaqis&show_icons=true&hide_border=true&bg_color=00000000">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=Ctiaqis&show_icons=true&hide_border=true&theme=dark&bg_color=00000000"
+    >
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Ctiaqis&show_icons=true&hide_border=true&bg_color=00000000"
+      alt="Ctiaqis GitHub Stats"
+      height="165"
+    >
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ctiaqis&layout=compact&theme=dark&hide_border=true&bg_color=00000000">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ctiaqis&layout=compact&hide_border=true&bg_color=00000000">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ctiaqis&layout=compact&hide_border=true&theme=dark&bg_color=00000000"
+    >
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ctiaqis&layout=compact&hide_border=true&bg_color=00000000"
+      alt="Top Languages used by Ctiaqis"
+      height="165"
+    >
   </picture>
 </div>
 
-<!-- CONNECT WITH ME SECTION -->
-## 📫 Connect With Me
+---
+
+<!-- CONNECT WITH ME -->
+## Connect With Me
 
 <p>
   <a href="https://github.com/Ctiaqis">
-    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=GitHub&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub Ctiaqis">
   </a>
 
-  <!-- 
-  [TO-DO]: Hapus tanda komentar (<!-- dan -- >) pada kode di bawah ini jika data LinkedIn dan Email sudah tersedia.
-  Ganti URL_LINKEDIN_ANDA dengan link profil LinkedIn Anda.
-  Ganti EMAIL_ANDA@domain.com dengan alamat email Anda.
-  
-  <a href="URL_LINKEDIN_ANDA">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <!--
+  [TODO] LinkedIn: Hapus komentar di bawah ini dan ganti URL_LINKEDIN dengan link profil LinkedIn Anda.
+
+  <a href="URL_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  
+  -->
+
+  <!--
+  [TODO] Email: Hapus komentar di bawah ini dan ganti EMAIL_ANDA@domain.com dengan email Anda.
+
   <a href="mailto:EMAIL_ANDA@domain.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
   -->
 </p>
 
-<!-- FOOTER SECTION -->
 ---
+
+<!-- FOOTER -->
 <div align="center">
-  <p><i>Learning, building, and exploring day by day.</i></p>
+  <sub>Learning, building, and growing through every project.</sub>
 </div>
