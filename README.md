@@ -10,8 +10,6 @@
   width="100%"
 />
 
-<br/>
-
 <!-- Animated typing text -->
 <a href="https://github.com/Ctiaqis">
   <img
@@ -20,13 +18,9 @@
   />
 </a>
 
-<br/>
-
 <p>
   <em>Turning data into meaningful insights and ideas into intelligent applications.</em>
 </p>
-
-<br/>
 
 <!-- Profile Views & Followers -->
 <img
@@ -53,11 +47,12 @@
 
 ## Hi There! 🌸
 
+> *"Without Data, you are just another person with an opinion"* <br>
+> <b>- W. Edward Deming</b> (Data Scientist)
+
 I enjoy discovering patterns in data and translating them into clear, meaningful insights. My journey into Machine Learning and Deep Learning is driven by hands-on projects that challenge me to think critically and build with purpose. I'm also interested in turning ideas into functional AI-powered applications that address real-world problems.
 
 Currently, I'm sharpening my skills across the full development pipeline, from data wrangling and model experimentation to building and deploying intelligent interfaces. I believe the best way to learn is to build, iterate, and keep asking better questions.
-
-I believe the best way to learn is to build, iterate, and keep asking better questions.
 
 <br/>
 
@@ -167,10 +162,10 @@ I believe the best way to learn is to build, iterate, and keep asking better que
     />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/damia-balqis" target="_blank">
+  <a href="https://www.linkedin.com/in/damiabalqissetyodhiyauddin" target="_blank">
     <img
-      src="https://img.shields.io/badge/LinkedIn-Damia%20Balqis-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn profile — Damia Balqis"
+      src="https://img.shields.io/badge/LinkedIn-Damia%20Balqis%20Setyodhiyauddin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn profile — Damia Balqis Setyodhiyauddin"
     />
   </a>
 </p>
