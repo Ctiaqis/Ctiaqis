@@ -5,7 +5,7 @@
 <!-- ═══════════════════════════════════════════ -->
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,13,14&text=Bonjour%20!%20%F0%9F%91%8B&fontColor=ffffff&fontSize=42&fontAlign=50&fontAlignY=35&desc=Je%20suis%20Damia%20Balqis%20Setyodhiyauddin&descColor=ffe4f0&descSize=20&descAlign=50&descAlignY=58"
+  src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=ffd1dc,d8a1c4,e6e6fa&text=Bonjour%20!%20%F0%9F%91%8B&fontColor=ffffff&fontSize=42&fontAlign=50&fontAlignY=28&desc=Je%20suis%20Damia%20Balqis%20Setyodhiyauddin&descColor=ffffff&descSize=20&descAlign=50&descAlignY=45"
   alt="Header — Bonjour ! Je suis Damia Balqis Setyodhiyauddin"
   width="100%"
 />
@@ -157,14 +157,14 @@ Currently, I'm sharpening my skills across the full development pipeline, from d
 <p>
   <a href="https://github.com/Ctiaqis" target="_blank">
     <img
-      src="https://img.shields.io/badge/GitHub-Ctiaqis-24292e?style=for-the-badge&logo=github&logoColor=white"
+      src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub profile — Ctiaqis"
     />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/damiabalqissetyodhiyauddin" target="_blank">
     <img
-      src="https://img.shields.io/badge/LinkedIn-Damia%20Balqis%20Setyodhiyauddin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn profile — Damia Balqis Setyodhiyauddin"
     />
   </a>
@@ -183,7 +183,7 @@ Currently, I'm sharpening my skills across the full development pipeline, from d
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12,13,14&section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=ffd1dc,d8a1c4,e6e6fa&section=footer"
   alt="Footer wave decoration"
   width="100%"
 />
