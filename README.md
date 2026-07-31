@@ -62,7 +62,7 @@ Currently, I'm sharpening my skills across the full development pipeline, from d
 <!--                 TECH STACK                  -->
 <!-- ═══════════════════════════════════════════ -->
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -122,7 +122,7 @@ Currently, I'm sharpening my skills across the full development pipeline, from d
 <!--              CONNECT WITH ME                -->
 <!-- ═══════════════════════════════════════════ -->
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
