@@ -1,48 +1,56 @@
 <!-- HEADER -->
 <div align="center">
 
-<h1>Bonjour! I'm Dania Balqis Setyodhiyauddin </h1>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,f8bbd0,d1c4e9&height=250&section=header&text=Bonjour!%20👋&desc=Je%20suis%20Damia%20Balqis%20Setyodhiyauddin&fontSize=40&descSize=24&fontAlign=50&fontAlignY=35&descAlignY=55&fontColor=ffffff&descColor=ffffff&animation=fadeIn"
+  alt="Header"
+  width="100%"
+/>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=22&duration=3500&pause=1200&color=F4A7B9&center=true&vCenter=true&width=500&lines=Data+Science+%26+AI+Enthusiast"
+  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3500&pause=1200&color=F4A7B9&center=true&vCenter=true&width=500&lines=Data+Science+%26+AI+Enthusiast"
   alt="Data Science & AI Enthusiast"
 />
 
 <br/>
 
-<img
-  src="https://komarev.com/ghpvc/?username=Ctiaqis&label=Profile+Views&color=f4a7b9&style=flat-square"
-  alt="Profile Views"
-/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ctiaqis&label=Profile+Views&color=f4a7b9&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Ctiaqis?label=Followers&style=flat-square&color=d1c4e9" alt="GitHub followers" />
+</p>
 
 </div>
 
 ---
 
 <!-- ABOUT ME -->
-## 🌸 About Me
+## About Me
 
-Hi there! I'm a Data Science and AI enthusiast who loves turning raw data into meaningful insights.
-I'm currently exploring Machine Learning, Deep Learning, and building AI-powered applications — one project at a time.
+Hi there! 
+I'm a passionate learner exploring the vast world of data and intelligent applications. I love turning raw data into meaningful insights and discovering the "why" behind the numbers. 
 
-I enjoy the process of learning through doing: experimenting, breaking things, and figuring out why. When I'm not diving into data, I like building small web tools that combine creativity and technology. ✨
+Currently, I'm diving deep into Machine Learning, Deep Learning, and building AI-powered tools that solve real-world problems. When I'm not training models, I enjoy building simple web projects that bring my ideas to life.
 
 ---
 
 <!-- TECH STACK -->
-## 🛠 Tech Stack
+## Tech Stack
 
 <div align="center">
 
 **Languages & Web**
 
+<br/>
+
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=python,java,php,js,html,css&theme=light" alt="Python, Java, PHP, JavaScript, HTML, CSS" />
 </a>
 
-<br/>
+<br/><br/>
 
 **Data Science & AI**
+
+<br/>
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
@@ -56,9 +64,11 @@ I enjoy the process of learning through doing: experimenting, breaking things, a
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab" />
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
 
-<br/>
+<br/><br/>
 
 **Tools & Database**
+
+<br/>
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=light" alt="MySQL, Git, GitHub, VS Code" />
@@ -69,7 +79,7 @@ I enjoy the process of learning through doing: experimenting, breaking things, a
 ---
 
 <!-- GITHUB STATISTICS -->
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -102,7 +112,7 @@ I enjoy the process of learning through doing: experimenting, breaking things, a
 ---
 
 <!-- CONNECT WITH ME -->
-## 💌 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -128,8 +138,13 @@ I enjoy the process of learning through doing: experimenting, breaking things, a
 
 </div>
 
----
+<br/>
 
+<!-- FOOTER -->
 <div align="center">
-  <sub>✿ &nbsp; Learning, building, and growing through every project. &nbsp; ✿</sub>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,f8bbd0,d1c4e9&height=120&section=footer"
+    alt="Footer"
+    width="100%"
+  />
 </div>
