@@ -5,8 +5,8 @@
 <!-- ═══════════════════════════════════════════ -->
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=ffb6c1,d8bfd8,e6e6fa&text=Bonjour%20!&fontColor=ffffff&fontSize=42&fontAlign=50&fontAlignY=28&desc=Je%20suis%20Damia%20Balqis%20Setyodhiyauddin&descColor=ffffff&descSize=20&descAlign=50&descAlignY=55"
-  alt="Header — Bonjour ! Je suis Damia Balqis Setyodhiyauddin"
+  src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=ffb6c1,d8bfd8,e6e6fa&text=Bonjour%20!&fontColor=ffffff&fontSize=42&fontAlign=50&fontAlignY=28&desc=Je%20m%27appelle%20Damia%20Balqis%20Setyodhiyauddin&descColor=ffffff&descSize=20&descAlign=50&descAlignY=55"
+  alt="Header — Bonjour ! Je m'appelle Damia Balqis Setyodhiyauddin"
   width="100%"
 />
 
@@ -114,22 +114,7 @@ Currently, I'm sharpening my skills across the full development pipeline, from d
 
 <br/>
 
----
 
-<!-- ═══════════════════════════════════════════ -->
-<!--              GITHUB STATISTICS              -->
-<!-- ═══════════════════════════════════════════ -->
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-[![Damia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ctiaqis&show_icons=true&theme=transparent&hide_border=true&title_color=D4769A&icon_color=e8a4c8&text_color=9e9e9e)](https://github.com/Ctiaqis)
-[![Damia's top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ctiaqis&layout=compact&theme=transparent&hide_border=true&title_color=D4769A&text_color=9e9e9e&langs_count=8)](https://github.com/Ctiaqis)
-
-</div>
-
-<br/>
 
 ---
 
@@ -137,7 +122,7 @@ Currently, I'm sharpening my skills across the full development pipeline, from d
 <!--              CONNECT WITH ME                -->
 <!-- ═══════════════════════════════════════════ -->
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -145,8 +130,6 @@ Currently, I'm sharpening my skills across the full development pipeline, from d
   <a href="https://github.com/Ctiaqis" target="_blank"><img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile — Ctiaqis" /></a>
   <a href="https://www.linkedin.com/in/damiabalqissetyodhiyauddin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile — Damia Balqis Setyodhiyauddin" /></a>
 </p>
-
-<p><em>Feel free to reach out — I'm always open to learning, collaborating, and building something meaningful together.</em></p>
 
 </div>
 
