@@ -5,7 +5,7 @@
 <!-- ═══════════════════════════════════════════ -->
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=FBA9D6,FFC6D9,CDB4DB&text=Bonjour%20!&fontColor=ffffff&fontSize=42&fontAlign=50&fontAlignY=28&desc=Je%20suis%20Damia%20Balqis%20Setyodhiyauddin&descColor=ffffff&descSize=20&descAlign=50&descAlignY=55"
+  src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=ffb6c1,d8bfd8,e6e6fa&text=Bonjour%20!&fontColor=ffffff&fontSize=42&fontAlign=50&fontAlignY=28&desc=Je%20suis%20Damia%20Balqis%20Setyodhiyauddin&descColor=ffffff&descSize=20&descAlign=50&descAlignY=55"
   alt="Header — Bonjour ! Je suis Damia Balqis Setyodhiyauddin"
   width="100%"
 />
@@ -83,8 +83,6 @@ Currently, I'm sharpening my skills across the full development pipeline, from d
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" title="Streamlit" height="48" />
 </p>
 
-<br/>
-
 ### Data Science & AI
 
 <p>
@@ -99,8 +97,6 @@ Currently, I'm sharpening my skills across the full development pipeline, from d
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" title="Jupyter Notebook" height="48" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" title="Google Colab" height="48" />
 </p>
-
-<br/>
 
 ### Database, Tools & Design
 
@@ -128,17 +124,8 @@ Currently, I'm sharpening my skills across the full development pipeline, from d
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Ctiaqis&show_icons=true&theme=transparent&hide_border=true&title_color=D4769A&icon_color=e8a4c8&text_color=9e9e9e&rank_icon=github"
-  alt="Damia's GitHub stats — commits, PRs, and contributions"
-  height="165"
-/>
-&nbsp;&nbsp;
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ctiaqis&layout=compact&theme=transparent&hide_border=true&title_color=D4769A&text_color=9e9e9e&langs_count=8"
-  alt="Damia's top programming languages"
-  height="165"
-/>
+[![Damia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ctiaqis&show_icons=true&theme=transparent&hide_border=true&title_color=D4769A&icon_color=e8a4c8&text_color=9e9e9e)](https://github.com/Ctiaqis)
+[![Damia's top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ctiaqis&layout=compact&theme=transparent&hide_border=true&title_color=D4769A&text_color=9e9e9e&langs_count=8)](https://github.com/Ctiaqis)
 
 </div>
 
@@ -172,7 +159,7 @@ Currently, I'm sharpening my skills across the full development pipeline, from d
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=FBA9D6,FFC6D9,CDB4DB&section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=ffb6c1,d8bfd8,e6e6fa&section=footer"
   alt="Footer wave decoration"
   width="100%"
 />
