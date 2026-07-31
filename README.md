@@ -1,11 +1,7 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" alt="Animated cat">
-
-<br>
-
 <img
-src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=28&duration=3000&pause=1000&color=E88EAE&center=true&vCenter=true&width=600&lines=Bonjour%2C+je+suis+Ctiaqis+%E2%9C%BF;Data+Science+%26+AI+Enthusiast"
+src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=28&duration=3000&pause=1000&color=E88EAE&center=true&vCenter=true&width=800&lines=Bonjour%2C+je+suis+Damia+Balqis+Setyodhiyauddin+%E2%9C%BF;Data+Science+%26+AI+Enthusiast"
 alt="Typing animation"
 />
 
@@ -30,23 +26,14 @@ Exploring data, machine learning, deep learning, and intelligent applications.
 
 ## About Me
 
+Hi! 👋
+
 * Exploring **Data Science, Artificial Intelligence, and Web Development**
 * Learning **Machine Learning and Deep Learning** through hands-on projects
 * Interested in transforming data into meaningful insights
 * Enjoy building useful applications that combine technology and creativity
 * Continuously learning, experimenting, and improving
 
----
-
-## Current Focus
-
-```text
-Data Analysis      → Exploring and visualizing data
-Machine Learning   → Building classification and prediction models
-Deep Learning      → Learning neural networks and image classification
-AI Applications    → Developing intelligent and useful applications
-Web Development    → Turning ideas and models into usable products
-```
 
 ---
 
@@ -117,19 +104,6 @@ alt="GitHub streak"
 
 </div>
 
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Ctiaqis&bg_color=ffffff&color=6f5869&line=e88eae&point=a78bba&area=true&hide_border=true"
-width="95%"
-alt="Contribution graph"
-/>
-
-</div>
 
 ---
 
@@ -173,14 +147,6 @@ lalu hapus tanda komentar ini.
 <br>
 
 <div align="center">
-
-<img
-src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif"
-width="75"
-alt="Small animated cat"
-/>
-
-<br>
 
 <sub>Learning, experimenting, and growing one project at a time.</sub>
 
