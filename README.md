@@ -1,150 +1,196 @@
-<!-- HEADER -->
 <div align="center">
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,f8bbd0,d1c4e9&height=250&section=header&text=Bonjour!%20👋&desc=Je%20suis%20Damia%20Balqis%20Setyodhiyauddin&fontSize=40&descSize=24&fontAlign=50&fontAlignY=35&descAlignY=55&fontColor=ffffff&descColor=ffffff&animation=fadeIn"
-  alt="Header"
-  width="100%"
-/>
+<!-- ═══════════════════════════════════════════ -->
+<!--                   HEADER                    -->
+<!-- ═══════════════════════════════════════════ -->
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3500&pause=1200&color=F4A7B9&center=true&vCenter=true&width=500&lines=Data+Science+%26+AI+Enthusiast"
-  alt="Data Science & AI Enthusiast"
+  src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,13,14&text=Bonjour%20!%20%F0%9F%91%8B&fontColor=ffffff&fontSize=42&fontAlign=50&fontAlignY=35&desc=Je%20suis%20Damia%20Balqis%20Setyodhiyauddin&descColor=ffe4f0&descSize=20&descAlign=50&descAlignY=58"
+  alt="Header — Bonjour ! Je suis Damia Balqis Setyodhiyauddin"
+  width="100%"
 />
 
 <br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ctiaqis&label=Profile+Views&color=f4a7b9&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Ctiaqis?label=Followers&style=flat-square&color=d1c4e9" alt="GitHub followers" />
+<!-- Animated typing text -->
+<a href="https://github.com/Ctiaqis">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1200&color=D4769A&center=true&vCenter=true&width=520&lines=Data+Science+%26+AI+Enthusiast"
+    alt="Typing animation — Data Science & AI Enthusiast"
+  />
+</a>
+
+<br/>
+
+<p>
+  <em>Turning data into meaningful insights and ideas into intelligent applications.</em>
+</p>
+
+<br/>
+
+<!-- Profile Views & Followers -->
+<img
+  src="https://komarev.com/ghpvc/?username=Ctiaqis&style=flat-square&color=e8a4c8&label=Profile+Views"
+  alt="Profile views counter"
+/>
+&nbsp;&nbsp;
+<a href="https://github.com/Ctiaqis?tab=followers">
+  <img
+    src="https://img.shields.io/github/followers/Ctiaqis?style=flat-square&color=e8a4c8&label=Followers&logo=github"
+    alt="GitHub followers count"
+  />
+</a>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════ -->
+<!--                  ABOUT ME                   -->
+<!-- ═══════════════════════════════════════════ -->
+
+## Hi There! 🌸
+
+I enjoy discovering patterns in data and translating them into clear, meaningful insights. My journey into Machine Learning and Deep Learning is driven by hands-on projects that challenge me to think critically and build with purpose. I'm also interested in turning ideas into functional AI-powered applications that address real-world problems.
+
+Currently, I'm sharpening my skills across the full development pipeline, from data wrangling and model experimentation to building and deploying intelligent interfaces. I believe the best way to learn is to build, iterate, and keep asking better questions.
+
+I believe the best way to learn is to build, iterate, and keep asking better questions.
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════ -->
+<!--                 TECH STACK                  -->
+<!-- ═══════════════════════════════════════════ -->
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages & Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" />
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" title="Laravel" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" title="Streamlit" height="48" />
+</p>
+
+<br/>
+
+### Data Science & AI
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" title="Pandas" height="48" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" title="NumPy" height="48" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" title="Matplotlib" height="48" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" title="Scikit-learn" height="48" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" title="TensorFlow" height="48" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" title="Keras" height="48" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" title="OpenCV" height="48" />
+  <img src="https://img.shields.io/badge/Pillow-FFDD44?style=for-the-badge&logo=python&logoColor=black" alt="Pillow" title="Pillow" height="48" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" title="Jupyter Notebook" height="48" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" title="Google Colab" height="48" />
+</p>
+
+<br/>
+
+### Database, Tools & Design
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" title="Supabase" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" title="Visual Studio Code" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" />
 </p>
 
 </div>
 
----
-
-<!-- ABOUT ME -->
-## About Me
-
-Hi there! 
-I'm a passionate learner exploring the vast world of data and intelligent applications. I love turning raw data into meaningful insights and discovering the "why" behind the numbers. 
-
-Currently, I'm diving deep into Machine Learning, Deep Learning, and building AI-powered tools that solve real-world problems. When I'm not training models, I enjoy building simple web projects that bring my ideas to life.
+<br/>
 
 ---
 
-<!-- TECH STACK -->
-## Tech Stack
+<!-- ═══════════════════════════════════════════ -->
+<!--              GITHUB STATISTICS              -->
+<!-- ═══════════════════════════════════════════ -->
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-**Languages & Web**
-
-<br/>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,java,php,js,html,css&theme=light" alt="Python, Java, PHP, JavaScript, HTML, CSS" />
-</a>
-
-<br/><br/>
-
-**Data Science & AI**
-
-<br/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" alt="Matplotlib" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
-
-<br/><br/>
-
-**Tools & Database**
-
-<br/>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=light" alt="MySQL, Git, GitHub, VS Code" />
-</a>
-
-</div>
-
----
-
-<!-- GITHUB STATISTICS -->
-## GitHub Statistics
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Ctiaqis&show_icons=true&hide_border=true&theme=dark&bg_color=00000000&title_color=f4a7b9&icon_color=f4a7b9"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Ctiaqis&show_icons=true&hide_border=true&bg_color=00000000&title_color=e07a9a&icon_color=e07a9a"
-    alt="Ctiaqis GitHub Stats"
-    height="160"
-  />
-</picture>
-&nbsp;
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ctiaqis&layout=compact&hide_border=true&theme=dark&bg_color=00000000&title_color=f4a7b9"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ctiaqis&layout=compact&hide_border=true&bg_color=00000000&title_color=e07a9a"
-    alt="Top Languages used by Ctiaqis"
-    height="160"
-  />
-</picture>
-
-</div>
-
----
-
-<!-- CONNECT WITH ME -->
-## Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/Ctiaqis">
-  <img src="https://img.shields.io/badge/GitHub-%40Ctiaqis-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<!--
-[TODO] LinkedIn — Hapus komentar ini dan ganti URL_LINKEDIN dengan link profil LinkedIn Anda.
-
-<a href="URL_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
--->
-
-<!--
-[TODO] Email — Hapus komentar ini dan ganti EMAIL_ANDA@domain.com dengan alamat email Anda.
-
-<a href="mailto:EMAIL_ANDA@domain.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hi!-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-</a>
--->
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Ctiaqis&show_icons=true&theme=transparent&hide_border=true&title_color=D4769A&icon_color=e8a4c8&text_color=9e9e9e&rank_icon=github"
+  alt="Damia's GitHub stats — commits, PRs, and contributions"
+  height="165"
+/>
+&nbsp;&nbsp;
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ctiaqis&layout=compact&theme=transparent&hide_border=true&title_color=D4769A&text_color=9e9e9e&langs_count=8"
+  alt="Damia's top programming languages"
+  height="165"
+/>
 
 </div>
 
 <br/>
 
-<!-- FOOTER -->
+---
+
+<!-- ═══════════════════════════════════════════ -->
+<!--              CONNECT WITH ME                -->
+<!-- ═══════════════════════════════════════════ -->
+
+## 🤝 Connect With Me
+
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,f8bbd0,d1c4e9&height=120&section=footer"
-    alt="Footer"
-    width="100%"
-  />
+
+<p>
+  <a href="https://github.com/Ctiaqis" target="_blank">
+    <img
+      src="https://img.shields.io/badge/GitHub-Ctiaqis-24292e?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub profile — Ctiaqis"
+    />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/damia-balqis" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Damia%20Balqis-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn profile — Damia Balqis"
+    />
+  </a>
+</p>
+
+<p><em>Feel free to reach out — I'm always open to learning, collaborating, and building something meaningful together.</em></p>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════ -->
+<!--                   FOOTER                    -->
+<!-- ═══════════════════════════════════════════ -->
+
+<div align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12,13,14&section=footer"
+  alt="Footer wave decoration"
+  width="100%"
+/>
+
 </div>
